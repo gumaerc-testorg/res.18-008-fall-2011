@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/13ad19b0fd025cf987d3ca7fb433d28a_anICA1XFJ_M.vtt
+file: /media/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/13ad19b0fd025cf987d3ca7fb433d28a_anICA1XFJ_M.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 13ad19b0-fd02-5cf9-87d3-ca7fb433d28a

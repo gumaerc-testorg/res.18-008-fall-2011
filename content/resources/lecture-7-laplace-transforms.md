@@ -2,14 +2,30 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Study Guide
+optional_text: 'Study Guide for Lecture 7: Laplace Transforms
+
+
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 1.2MB](resources/mitres_18_008_partii_lec07))
+
+  *   Solutions ([PDF - 8.2MB](resources/mitres_18_008_partii_sol07))
+
+
+  To complete the reading assignments, see the Supplementary Notes in the [Study Materials
+  section](pages/study-materials).'
+parent_title: 'Part II: Differential Equations'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: Laplace Transforms'
 uid: 5eab46be-eb30-d157-8399-846b6c8cc88d
 video_files:
   archive_url: http://www.archive.org/download/MITRES.18-008/MITRES_18-008_Part2_lec7_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/86ea227f712a53c1add73966d65abb45_an5E940fqZQ.vtt
+  video_captions_file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/86ea227f712a53c1add73966d65abb45_an5E940fqZQ.vtt
   video_thumbnail_file: https://img.youtube.com/vi/an5E940fqZQ/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/b883f62a3221837ab7cf37705d16b09d_an5E940fqZQ.pdf
+  video_transcript_file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/b883f62a3221837ab7cf37705d16b09d_an5E940fqZQ.pdf
 video_metadata:
   youtube_id: an5E940fqZQ
 ---

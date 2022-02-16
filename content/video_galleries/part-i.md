@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Part I: Complex Variables'
 uid: 6731877a-9202-7d92-b4ab-de60926c637c
 videos:

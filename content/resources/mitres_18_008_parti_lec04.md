@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information related to sequences and series.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/f4ef8eb3f5511c202b97915b4487bd15_MITRES_18_008_partI_lec04.pdf
+file: /media/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/f4ef8eb3f5511c202b97915b4487bd15_MITRES_18_008_partI_lec04.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: MITRES_18_008_partI_lec04.pdf
 uid: f4ef8eb3-f551-1c20-2b97-915b4487bd15

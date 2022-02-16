@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Part II: Differential Equations'
 uid: 2981d4db-d0f4-6ca2-3063-075a0410359d
 videos:

@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Part III: Linear Algebra'
 uid: abcdd1e0-616d-8fc9-a420-15acb3bc4626
 videos:
@@ -16,7 +18,7 @@ videos:
   website: res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011
 ---
 
-In essence, linear algebra allows us to extend the concept of dimension beyond the usual 1-, 2- and 3-dimensional spaces. More specifically, we define the dimension of an equation to be the number of independent variables it contains, For example if f(x1,x2,x3,x4) and x1,x2,x3 and x4 are independent variables then the domain of f is 4-dimensional even though geometrically speaking there is no 4th dimension. So rather than talk about y = f(x) we, instead, "invent" a new variable (x1,x2,x3,x4) which we denote by a symbol such as **X**. We refer to (x1,x2,x3,x4) as a 4-tuple; and more generally, we refer to (x1,x2,x3,x4, ...xn) as an n-tuple. In this context linear algebra is a study of the arithmetic of n-tuples.
+In essence, linear algebra allows us to extend the concept of dimension beyond the usual 1-, 2- and 3-dimensional spaces. More specifically, we define the dimension of an equation to be the number of independent variables it contains, For example if f(x{{< sub "1" >}},x{{< sub "2" >}},x{{< sub "3" >}},x{{< sub "4" >}}) and x{{< sub "1" >}},x{{< sub "2" >}},x{{< sub "3" >}} and x{{< sub "4" >}} are independent variables then the domain of f is 4-dimensional even though geometrically speaking there is no 4th dimension. So rather than talk about y = f(x) we, instead, "invent" a new variable (x{{< sub "1" >}},x{{< sub "2" >}},x{{< sub "3" >}},x{{< sub "4" >}}) which we denote by a symbol such as **X**. We refer to (x{{< sub "1" >}},x{{< sub "2" >}},x{{< sub "3" >}},x{{< sub "4" >}}) as a 4-tuple; and more generally, we refer to (x{{< sub "1" >}},x{{< sub "2" >}},x{{< sub "3" >}},x{{< sub "4" >}}, ...x{{< sub "n" >}}) as an n-tuple. In this context linear algebra is a study of the arithmetic of n-tuples.
 
 {{< video-gallery "abcdd1e0-616d-8fc9-a420-15acb3bc4626" >}}
 
