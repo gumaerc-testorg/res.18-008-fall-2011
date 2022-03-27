@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Study Guide
@@ -20,6 +21,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Solving the Linear Equations L(y) = 0; Constant Coefficients'
 uid: 07c92c27-de62-44aa-f4e8-171d0047067c
 video_files:
