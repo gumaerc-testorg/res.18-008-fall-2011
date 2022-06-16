@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 5: Variations of Parameters
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_008_partii_lec05))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_partii_lec05))
 
-  *   Solutions ([PDF - 4.0MB](resources/mitres_18_008_partii_sol05))
+  *   Solutions ([PDF - 4.0MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_partii_sol05))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/pages/study-materials).'
 parent_title: 'Part II: Differential Equations'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -35,3 +36,6 @@ video_metadata:
 **Track Description:** Herb Gross uses the method of Variation of Parameters to find a particular solution of linear homogeneous order 2 differential equations when the general solution is known.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

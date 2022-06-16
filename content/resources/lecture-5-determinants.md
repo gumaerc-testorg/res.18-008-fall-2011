@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 5: Determinants
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_008_partiii_lec05))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_partiii_lec05))
 
-  *   Solutions ([PDF - 5.3MB](resources/mitres_18_008_partiii_sol05))
+  *   Solutions ([PDF - 5.3MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_partiii_sol05))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/pages/study-materials).'
 parent_title: 'Part III: Linear Algebra'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -35,3 +36,6 @@ video_metadata:
 **Track Description:** Herb Gross examines the determinant in the framework of vector spaces. He shows us how the value of a particular determinant tells us whether a given set of vectors is a basis of a given vector space with a known basis.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

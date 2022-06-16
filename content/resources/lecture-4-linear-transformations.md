@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 4: Linear Transformations
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_008_partiii_lec04))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_partiii_lec04))
 
-  *   Solutions ([PDF - 5.5MB](resources/mitres_18_008_partiii_sol04))
+  *   Solutions ([PDF - 5.5MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_partiii_sol04))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/pages/study-materials).'
 parent_title: 'Part III: Linear Algebra'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -35,3 +36,6 @@ video_metadata:
 **Track Description:** Herb Gross defines Linear Transformations from vector space _V_ into vector space _W_. He also defines and gives examples of the null space of such a map and illustrates the matrix representation of a linear transformation relative to a given basis.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

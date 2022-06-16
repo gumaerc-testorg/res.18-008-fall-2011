@@ -4,18 +4,19 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 3: Solving the Linear Equations L(y) = 0;
   Constant Coefficients
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](resources/mitres_18_008_partii_lec03))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_partii_lec03))
 
-  *   Solutions ([PDF - 3.2MB](resources/mitres_18_008_partii_sol03))
+  *   Solutions ([PDF - 3.2MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_partii_sol03))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/pages/study-materials).'
 parent_title: 'Part II: Differential Equations'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -36,3 +37,6 @@ video_metadata:
 **Track Description:** Herb Gross talks about a specific type of Differential Equations, namely those that are linear, 2nd order, homogeneous and with constant coefficients. He gives examples of the three types of possible general solutions and then shows why they ARE the solutions.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

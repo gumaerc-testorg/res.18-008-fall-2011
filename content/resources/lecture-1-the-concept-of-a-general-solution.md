@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 1: The Concept of a General Solution
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 2.3MB](resources/mitres_18_008_partii_lec01))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 2.3MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_partii_lec01))
 
-  *   Solutions ([PDF - 15.3MB](resources/mitres_18_008_partii_sol01))
+  *   Solutions ([PDF - 15.3MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_partii_sol01))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/pages/study-materials).'
 parent_title: 'Part II: Differential Equations'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -35,3 +36,6 @@ video_metadata:
 **Track Description:** Herb Gross defines and illustrates the different types of solutions of a differential equation: General solutions, particular solutions, and singular solutions.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

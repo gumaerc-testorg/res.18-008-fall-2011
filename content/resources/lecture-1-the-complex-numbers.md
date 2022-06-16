@@ -4,19 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 1: The Complex Numbers
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises (![This resource may not
-  render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB](resources/mitres_18_008_parti_lec01))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 1.8MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_lec01))
 
-  *   Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF
-  - 5.1MB](resources/mitres_18_008_parti_sol01))
+  *   Solutions ([PDF - 5.1MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_sol01))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/pages/study-materials).'
 parent_title: 'Part I: Complex Variables'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -37,3 +36,6 @@ video_metadata:
 **Track Description:** Herb Gross explains the need to define complex numbers. He defines the structure of the system of complex numbers including addition, subtraction, multiplication, division, powers and roots and shows that the system is closed under all these operations.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

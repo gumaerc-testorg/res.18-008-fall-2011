@@ -4,19 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 5: Integrating Complex Functions
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises (![This resource may not
-  render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_18_008_parti_lec05))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_lec05))
 
-  *   Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF
-  - 5.5MB](resources/mitres_18_008_parti_sol05))
+  *   Solutions ([PDF - 5.5MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_parti_sol05))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/pages/study-materials).'
 parent_title: 'Part I: Complex Variables'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -37,3 +36,6 @@ video_metadata:
 **Track Description:** Herb Gross generalizes the definition of the integral of a real-valued function of a real variable to the integral of a complex-valued function of a complex variable and examines the ramifications of this generalization.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+

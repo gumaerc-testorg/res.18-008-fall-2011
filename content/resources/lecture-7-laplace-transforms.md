@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 7: Laplace Transforms
 
 
-  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 1.2MB](resources/mitres_18_008_partii_lec07))
+  *   Chalkboard Photos, Reading Assignments, and Exercises ([PDF - 1.2MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_partii_lec07))
 
-  *   Solutions ([PDF - 8.2MB](resources/mitres_18_008_partii_sol07))
+  *   Solutions ([PDF - 8.2MB](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/resources/mitres_18_008_partii_sol07))
 
 
   To complete the reading assignments, see the Supplementary Notes in the [Study Materials
-  section](pages/study-materials).'
+  section](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/pages/study-materials).'
 parent_title: 'Part II: Differential Equations'
 parent_type: SupplementalResourceSection
 related_resources_text: ''
@@ -35,3 +36,6 @@ video_metadata:
 **Track Description:** Herb Gross describes and justifies the use of Laplace Transforms as a method of solving linear differential equations with given initial conditions.
 
 **Instructor/speaker:** Prof. Herbert Gross
+
+
+
