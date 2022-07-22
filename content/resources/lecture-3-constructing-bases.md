@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 3: Constructing Bases
@@ -36,6 +37,4 @@ video_metadata:
 **Track Description:** Herb Gross gives a short review of bases and dimension. He then does an example using the row-reduced matrix technique.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

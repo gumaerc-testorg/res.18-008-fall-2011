@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 6: Power Series Solutions
@@ -36,6 +37,4 @@ video_metadata:
 **Track Description:** Herb Gross show how to find the general solution of a linear, homogeneous differential equation of order 2 when the coefficients are analytic functions.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

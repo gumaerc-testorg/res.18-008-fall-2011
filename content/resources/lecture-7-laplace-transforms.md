@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 7: Laplace Transforms
@@ -36,6 +37,4 @@ video_metadata:
 **Track Description:** Herb Gross describes and justifies the use of Laplace Transforms as a method of solving linear differential equations with given initial conditions.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 5: Variations of Parameters
@@ -36,6 +37,4 @@ video_metadata:
 **Track Description:** Herb Gross uses the method of Variation of Parameters to find a particular solution of linear homogeneous order 2 differential equations when the general solution is known.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 3: Solving the Linear Equations L(y) = 0;
@@ -37,6 +38,4 @@ video_metadata:
 **Track Description:** Herb Gross talks about a specific type of Differential Equations, namely those that are linear, 2nd order, homogeneous and with constant coefficients. He gives examples of the three types of possible general solutions and then shows why they ARE the solutions.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

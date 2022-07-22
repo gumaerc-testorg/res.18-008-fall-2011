@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 1: The Concept of a General Solution
@@ -36,6 +37,4 @@ video_metadata:
 **Track Description:** Herb Gross defines and illustrates the different types of solutions of a differential equation: General solutions, particular solutions, and singular solutions.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 

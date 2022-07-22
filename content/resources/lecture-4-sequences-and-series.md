@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Study Guide
 optional_text: 'Study Guide for Lecture 4: Sequences and Series
@@ -36,6 +37,4 @@ video_metadata:
 **Track Description:** Herb Gross defines complex valued functions by means of power series expansions. He shows us how the amazing identity of DeMoivre is derived.
 
 **Instructor/speaker:** Prof. Herbert Gross
-
-
 
