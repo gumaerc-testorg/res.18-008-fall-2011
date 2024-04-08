@@ -15,7 +15,7 @@ leftnav:
   name: Study Materials
   pageRef: /pages/study-materials
   weight: 40
-- identifier: external-927e26c8234f4c42ba0ea5cf94ff93c1
+- identifier: 0fd27bee-8bda-45e1-8264-edb0870dae9f
   name: IN MEMORY OF HERB GROSS
-  url: https://www.ocw-openmatters.org/2020/06/10/in-memory-of-herb-gross/
+  pageRef: /external-resources/in-memory-of-herb-gross_0fd27bee-8bda-45e1-8264-edb0870dae9f
   weight: 1000
