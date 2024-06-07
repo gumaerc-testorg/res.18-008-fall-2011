@@ -15,7 +15,7 @@ leftnav:
   name: Study Materials
   pageRef: /pages/study-materials
   weight: 40
-- identifier: 0fd27bee-8bda-45e1-8264-edb0870dae9f
+- identifier: fa49d593-7cf9-4a3e-926a-5245b4d47ce0
   name: IN MEMORY OF HERB GROSS
-  pageRef: /external-resources/in-memory-of-herb-gross_0fd27bee-8bda-45e1-8264-edb0870dae9f
+  pageRef: /external-resources/in-memory-of-herb-gross_fa49d593-7cf9-4a3e-926a-5245b4d47ce0
   weight: 1000

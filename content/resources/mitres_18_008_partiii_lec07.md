@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to dot products.
 file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/d23c6162d6c402867ee0c0154d1e1763_MITRES_18_008_partIII_lec07.pdf
+file_size: 903018
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

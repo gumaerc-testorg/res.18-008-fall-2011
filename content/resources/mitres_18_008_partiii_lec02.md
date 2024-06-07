@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to spanning vectors.
 file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/28f58b97ceac9c2a49e0c71f11038c37_MITRES_18_008_partIII_lec02.pdf
+file_size: 676541
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
