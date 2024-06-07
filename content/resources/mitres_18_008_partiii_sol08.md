@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions related to orthogonal functions.
 file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/c3c5364d0545b8de4a46756372b978ba_MITRES_18_008_partIII_sol08.pdf
+file_size: 6139637
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

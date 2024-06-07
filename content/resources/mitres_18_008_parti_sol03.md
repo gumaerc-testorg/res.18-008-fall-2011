@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions related to conformal mappings.
 file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/2755d4ef9d25f45e6371d05a9baed6f5_MITRES_18_008_partI_sol03.pdf
+file_size: 3066913
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

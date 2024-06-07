@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to sequences and series.
 file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/eaf06b49a99feb48909742d35a61e82a_MITRES_18_008_partI_sol04.pdf
+file_size: 2947616
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
