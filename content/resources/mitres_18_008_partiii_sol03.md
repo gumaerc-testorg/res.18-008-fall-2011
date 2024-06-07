@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions related to constructing bases.
 file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/4867ee9ee183aa1e28e3d7afb303e115_MITRES_18_008_partIII_sol03.pdf
+file_size: 2650451
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

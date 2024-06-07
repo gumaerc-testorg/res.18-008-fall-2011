@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions related to vector spaces.
 file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/f56d81732759e084e0b429d80d750e8f_MITRES_18_008_partIII_sol01.pdf
+file_size: 4665456
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

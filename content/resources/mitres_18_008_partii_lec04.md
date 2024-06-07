@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to undetermined coefficients.
 file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/29f368dfb00b1b8f3ceb1971f401bb82_MITRES_18_008_partII_lec04.pdf
+file_size: 733573
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

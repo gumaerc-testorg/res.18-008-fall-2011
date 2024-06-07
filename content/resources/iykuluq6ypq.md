@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/742e95df6b841a90ce3c510e67c17058_IYKULUq6YPQ.srt
+file_size: 38854
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
