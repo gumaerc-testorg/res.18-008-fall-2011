@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions related to power series solutions.
-file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/02acdbfb5cf469f523f1c72ef569e406_MITRES_18_008_partII_sol06.pdf
+file: /ol-ocw-studio-app/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/02acdbfb5cf469f523f1c72ef569e406_MITRES_18_008_partII_sol06.pdf
 file_size: 3910397
 file_type: application/pdf
 learning_resource_types: []

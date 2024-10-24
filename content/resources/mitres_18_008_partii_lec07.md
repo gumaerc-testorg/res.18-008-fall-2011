@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to laplace transforms.
-file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/4dbaa5e493d5f8ec0702ce4e0e48c530_MITRES_18_008_partII_lec07.pdf
+file: /ol-ocw-studio-app/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/4dbaa5e493d5f8ec0702ce4e0e48c530_MITRES_18_008_partII_lec07.pdf
 file_size: 1207264
 file_type: application/pdf
 learning_resource_types: []
