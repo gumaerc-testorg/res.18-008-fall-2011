@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions related to determinants.
-file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/6327e7e565951f5a0eec2475e445a8ad_MITRES_18_008_partIII_sol05.pdf
+file: /ol-ocw-studio-app/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/6327e7e565951f5a0eec2475e445a8ad_MITRES_18_008_partIII_sol05.pdf
 file_size: 5529721
 file_type: application/pdf
 learning_resource_types: []

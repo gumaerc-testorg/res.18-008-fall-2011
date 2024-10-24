@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to integrating complex functions.
-file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/ef08f726ac3a2f085fa2f53f7226ff70_MITRES_18_008_partI_sol05.pdf
+file: /ol-ocw-studio-app/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/ef08f726ac3a2f085fa2f53f7226ff70_MITRES_18_008_partI_sol05.pdf
 file_size: 5775871
 file_type: application/pdf
 learning_resource_types: []

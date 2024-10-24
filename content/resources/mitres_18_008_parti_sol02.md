@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions related to complex numbers.
-file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/f6dcf15fa48ffd1bfbf68347b09356a8_MITRES_18_008_partI_sol02.pdf
+file: /ol-ocw-studio-app/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/f6dcf15fa48ffd1bfbf68347b09356a8_MITRES_18_008_partI_sol02.pdf
 file_size: 4979652
 file_type: application/pdf
 learning_resource_types: []
