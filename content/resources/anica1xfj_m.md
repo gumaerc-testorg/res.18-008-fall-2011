@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/342d734753a3dfbd366c483e5a2a0548_anICA1XFJ_M.srt
+file: /ol-ocw-studio-app/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/342d734753a3dfbd366c483e5a2a0548_anICA1XFJ_M.srt
 file_size: 45629
 file_type: application/x-subrip
 learning_resource_types: []
