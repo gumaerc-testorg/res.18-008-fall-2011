@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions related to variations to parameters.
-file: /ol-ocw-studio-app/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/0a094d385e28de3e7f91f1451bc09f78_MITRES_18_008_partII_sol05.pdf
+file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/0a094d385e28de3e7f91f1451bc09f78_MITRES_18_008_partII_sol05.pdf
 file_size: 4223653
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions related to undetermined coefficients.
-file: /ol-ocw-studio-app/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/440b886548220cbe69feeffad2d0b33e_MITRES_18_008_partII_sol04.pdf
+file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/440b886548220cbe69feeffad2d0b33e_MITRES_18_008_partII_sol04.pdf
 file_size: 4591561
 file_type: application/pdf
 learning_resource_types: []

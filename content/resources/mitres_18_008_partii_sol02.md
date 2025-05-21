@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions related to linear differential equations.
-file: /ol-ocw-studio-app/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/cf07dc1e58e5949bbe0a521e5623f0af_MITRES_18_008_partII_sol02.pdf
+file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/cf07dc1e58e5949bbe0a521e5623f0af_MITRES_18_008_partII_sol02.pdf
 file_size: 4220923
 file_type: application/pdf
 learning_resource_types: []

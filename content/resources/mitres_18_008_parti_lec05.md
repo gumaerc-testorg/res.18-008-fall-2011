@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to integrating complex numbers.
-file: /ol-ocw-studio-app/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/556f9c081ab2aa8634db9db66c37246c_MITRES_18_008_partI_lec05.pdf
+file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/556f9c081ab2aa8634db9db66c37246c_MITRES_18_008_partI_lec05.pdf
 file_size: 829418
 file_type: application/pdf
 learning_resource_types: []
