@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to complex numbers.
-file: /ol-ocw-studio-app/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/4feba2db381a6b61a4a9781486cee962_MITRES_18_008_partI_lec01.pdf
+file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/4feba2db381a6b61a4a9781486cee962_MITRES_18_008_partI_lec01.pdf
 file_size: 1902018
 file_type: application/pdf
 learning_resource_types: []
