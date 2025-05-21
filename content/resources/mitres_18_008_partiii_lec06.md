@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to eigen vectors.
-file: /ol-ocw-studio-app/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/fc0ff1144a29cb7c0ff0959c0d5fb946_MITRES_18_008_partIII_lec06.pdf
+file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/fc0ff1144a29cb7c0ff0959c0d5fb946_MITRES_18_008_partIII_lec06.pdf
 file_size: 729165
 file_type: application/pdf
 learning_resource_types: []

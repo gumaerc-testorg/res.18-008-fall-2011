@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to some notes on differential
   operators.
-file: /ol-ocw-studio-app/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/606bb69bad81cdaa699eeadf43682808_MITRES_18_008_supp_notes04.pdf
+file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/606bb69bad81cdaa699eeadf43682808_MITRES_18_008_supp_notes04.pdf
 file_size: 4154045
 file_type: application/pdf
 learning_resource_types: []
