@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to general solution.
-file: /courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/f39d700c84e06d43ed6fc0335f4a4e76_MITRES_18_008_partII_lec01.pdf
+file: /ol-ocw-studio-app/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/f39d700c84e06d43ed6fc0335f4a4e76_MITRES_18_008_partII_lec01.pdf
 file_size: 2451305
 file_type: application/pdf
 learning_resource_types: []
